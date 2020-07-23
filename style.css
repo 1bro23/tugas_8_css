@@ -1,0 +1,27 @@
+body{
+  background-image:url("https://wonderfulengineering.com/wp-content/uploads/2014/09/wind-turbine-14.jpg");
+  background-attachment:fixed;
+  background-size:cover;
+}
+div{
+  width:46%;
+  height:320px;
+  background-image:url("avocado.jpg");
+  background-repeat:repeat-y;
+  overflow:scroll;
+  background-color:white;
+  background-attachment:local;
+}
+p{
+  color:blue;
+  text-align:right;
+  font-weight:bold;
+}
+.dua{
+  color:green;
+  text-align:left;
+}
+.tiga{
+  color:red;
+  padding-right: 18px;
+}
